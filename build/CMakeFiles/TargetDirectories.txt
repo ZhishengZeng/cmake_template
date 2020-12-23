@@ -1,0 +1,12 @@
+/root/study_cmake/build/CMakeFiles/edit_cache.dir
+/root/study_cmake/build/CMakeFiles/rebuild_cache.dir
+/root/study_cmake/build/CMakeFiles/printABC.dir
+/root/study_cmake/build/src/a/CMakeFiles/rebuild_cache.dir
+/root/study_cmake/build/src/a/CMakeFiles/edit_cache.dir
+/root/study_cmake/build/src/a/CMakeFiles/a.dir
+/root/study_cmake/build/src/b/CMakeFiles/rebuild_cache.dir
+/root/study_cmake/build/src/b/CMakeFiles/edit_cache.dir
+/root/study_cmake/build/src/b/CMakeFiles/b.dir
+/root/study_cmake/build/src/c/CMakeFiles/rebuild_cache.dir
+/root/study_cmake/build/src/c/CMakeFiles/edit_cache.dir
+/root/study_cmake/build/src/c/CMakeFiles/c.dir

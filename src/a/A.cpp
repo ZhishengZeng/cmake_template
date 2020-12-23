@@ -3,6 +3,6 @@ namespace STUDYCMAKE
 {
     void A::printA()
     {
-        std::cout << " a " << std::endl;
+        std::cout << " a : Hello! " << std::endl;
     }
 } // namespace STUDYCMAKE
