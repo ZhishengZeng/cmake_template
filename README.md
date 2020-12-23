@@ -2,7 +2,6 @@
 
 ```bash
 git clone https://github.com/ZhishengZeng/study_cmake.git
-cd study_cmake
-mkdir build && cd build
-cmake .. && make -j 8
+cd study_cmake && mkdir build && cd build && cmake .. && make -j 8
+./printABC
 ```
