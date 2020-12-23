@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/printABC.dir/test_main.cpp.o  -o printABC  src/a/liba.a src/b/libb.a src/c/libc.a 
