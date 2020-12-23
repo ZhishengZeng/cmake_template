@@ -1,3 +1,9 @@
 # study_cmake
 
-'''mkdir build'''
+```bash
+cd study_cmake
+mkdir build
+cd build
+cmake ..
+make -j 8
+```
