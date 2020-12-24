@@ -8,8 +8,3 @@ cd study_cmake && mkdir build && cd build && cmake .. && make
 ./src/c/main_c
 ./printABC
 ```
-
---study_make
-  |--a
-  |--b
-  |--c
