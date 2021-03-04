@@ -14,4 +14,4 @@ add_subdirectory(src/c)
 
 include_directories(${PROJECT_SOURCE_DIR}/src/a/include ${PROJECT_SOURCE_DIR}/src/b/include ${PROJECT_SOURCE_DIR}/src/c/include)
 add_executable( printABC ${PROJECT_SOURCE_DIR}/test_main.cpp)
-target_link_libraries(printABC a b c)
+target_link_libraries(printABC lib_a lib_b lib_c)
