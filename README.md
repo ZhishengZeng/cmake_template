@@ -1,15 +1,7 @@
 # study_cmake
 
-## study_cmake is The main project
-## 'a,b,c' are subprojects of study_cmake
-
-```
-study_cmake
-  |a
-  |b
-  |c
-```
-
+**The Main project : study_cmake**</br> 
+**Sub project : a , b , c** 
 
 ```bash
 git clone https://github.com/ZhishengZeng/study_cmake.git
