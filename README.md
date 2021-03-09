@@ -1,6 +1,6 @@
 # study_cmake
 
-**The Main project : study_cmake**</br> 
+**Main project : study_cmake**</br> 
 **Sub project : a , b , c** 
 
 ```bash
