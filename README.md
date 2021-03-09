@@ -3,11 +3,12 @@
 study_cmake is The main project
 'a,b,c' are subprojects of study_cmake
 
+```bash
 study_cmake
   |a
   |b
   |c
-
+```
 
 
 ```bash
