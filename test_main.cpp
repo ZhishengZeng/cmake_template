@@ -3,7 +3,7 @@
 #include "B.h"
 #include "C.h"
 
-using namespace STUDYCMAKE;
+using namespace CMAKETEMPLATE;
 
 int main()
 {

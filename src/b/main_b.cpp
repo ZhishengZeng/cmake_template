@@ -1,5 +1,5 @@
 #include "B.h"
-using namespace STUDYCMAKE;
+using namespace CMAKETEMPLATE;
 int main()
 {
     B b;

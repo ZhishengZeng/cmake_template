@@ -1,5 +1,5 @@
 #include <iostream>
-namespace STUDYCMAKE
+namespace CMAKETEMPLATE
 {
     class A
     {
@@ -11,4 +11,4 @@ namespace STUDYCMAKE
         void printA();
     };
 
-} // namespace STUDYCMAKE
+} // namespace CMAKETEMPLATE

@@ -1,8 +1,8 @@
 #include "B.h"
-namespace STUDYCMAKE
+namespace CMAKETEMPLATE
 {
     void B::printB()
     {
         std::cout << " b : Hey! " << std::endl;
     }
-} // namespace STUDYCMAKE
+} // namespace CMAKETEMPLATE
