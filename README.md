@@ -1,7 +1,7 @@
 # cmake_template
 
 **Main project : cmake_template**</br> 
-**Sub project &nbsp;: a , b , c** 
+**Sub project &nbsp;&nbsp;: a , b , c** 
 
 ```bash
 git clone https://github.com/ZhishengZeng/cmake_template.git
